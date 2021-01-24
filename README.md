@@ -1,1 +1,1 @@
-https://codok.github.io/izone_web_page/
+ https://codok.github.io/web/
